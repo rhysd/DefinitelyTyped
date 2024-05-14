@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/eslint-plugin-n",
+    "version": "17.7.9999",
+    "projects": [
+        "https://github.com/eslint-community/eslint-plugin-n#readme"
+    ],
+    "dependencies": {
+        "@types/eslint": "*"
+    },
+    "devDependencies": {
+        "@types/eslint-plugin-n": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "rhysd",
+            "githubUsername": "rhysd"
+        }
+    ]
+}
